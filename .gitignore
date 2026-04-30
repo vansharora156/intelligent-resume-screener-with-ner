@@ -5,9 +5,12 @@ __pycache__/
 venv/
 .env
 
-# Model files (keeping them as they are small <100MB)
-# resume_mlp_model.pth
-# *.joblib
+# Project Report (Docx excluded as requested)
+Project_Report.docx
+
+# PDF Files
+*.pdf
+!template.pdf
 
 # OS
 .DS_Store
