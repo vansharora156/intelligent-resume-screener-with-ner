@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Model files (keeping them as they are small <100MB)
+# resume_mlp_model.pth
+# *.joblib
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated
+entities.html
+my_resume_entities.html
+temp_*
