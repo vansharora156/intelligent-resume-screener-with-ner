@@ -5,12 +5,15 @@ __pycache__/
 venv/
 .env
 
-# Project Report (Docx excluded as requested)
+# Excluded Files (as requested)
 Project_Report.docx
+README.md
+My_Resume.pdf
+resume.pdf
 
 # PDF Files
 *.pdf
-!template.pdf
+!Template.pdf
 
 # OS
 .DS_Store
